@@ -31,6 +31,10 @@ crashlytics-build.properties
 /Assets/Resources/TarinoiSettings.asset
 /Assets/Resources/TarinoiSettings.asset.meta
 
+# Bindings generated from whichever Tarinoi project this checkout is pointed at.
+# Regenerate with Tools > Tarinoi > Regenerate Bindings after syncing.
+/Assets/Tarinoi/Generated/
+
 # OS / IDE
 .DS_Store
 .idea/
