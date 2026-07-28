@@ -25,6 +25,12 @@
 sysinfo.txt
 crashlytics-build.properties
 
+# Local Tarinoi configuration. Points at a specific Tarinoi project, so it is
+# per-developer rather than shared — and this repository is public, so our dev
+# instance's group and project ids do not belong in it.
+/Assets/Resources/TarinoiSettings.asset
+/Assets/Resources/TarinoiSettings.asset.meta
+
 # OS / IDE
 .DS_Store
 .idea/
