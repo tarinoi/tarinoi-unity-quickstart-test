@@ -35,6 +35,10 @@ crashlytics-build.properties
 # Regenerate with Tools > Tarinoi > Regenerate Bindings after syncing.
 /Assets/Tarinoi/Generated/
 
+# Exported content snapshot — specific to whichever Tarinoi project this
+# checkout syncs from. Re-export with Tools > Tarinoi > Snapshot for Export.
+/Assets/StreamingAssets/tarinoi/
+
 # OS / IDE
 .DS_Store
 .idea/
